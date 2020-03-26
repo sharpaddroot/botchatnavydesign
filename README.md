@@ -1,6 +1,6 @@
 <h1><u><b>เขียนออกแบบและพัฒนาโดย NAVyDESIGn</b></u></h1>
 </p>
-<b>อย่าลืมแก้ไข database ที่ connections/botconnect.php</b></p>
+<b>อย่าลืมแก้ไข database ที่ connections/botconnect.php ระบบทำงานได้บน XAMPP เท่านั้น!!!</b></p>
 </p>
 ดูตัวอย่างได้ที่ : 
 </p>
