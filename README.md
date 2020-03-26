@@ -1,5 +1,6 @@
 <h1><u><b>เขียนออกแบบและพัฒนาโดย NAVyDESIGn</b></u></h1>
-
+<b>สามารถรับระบบป้องกันพิมคำหยาบได้โดย กดแนะนำเพจFacebook : https://www.facebook.com/nanydesignpage</b></p>
+</p>
 <b>อย่าลืมแก้ไข database ที่ connections/botconnect.php</b></p>
 </p>
 ดูตัวอย่างได้ที่ : 
