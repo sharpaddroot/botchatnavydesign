@@ -128,8 +128,7 @@ CREATE TABLE `log` (
 --
 
 INSERT INTO `log` (`id`, `text_log`, `date_log`, `user`, `tag`) VALUES
-(0, 'รับรองระบบจาก NAVy DESIGn', '<font class=\"text-danger\">เพิ่มโดยผู้ดูแลระบบ!</font>', 'f528764d624db129b32c21fbca0cb8d6', '0000'),
-(174, 'ควย', '26/03/2020 20:53:18', 'f528764d624db129b32c21fbca0cb8d6', '834');
+(0, 'รับรองระบบจาก NAVy DESIGn', '<font class=\"text-danger\">เพิ่มโดยผู้ดูแลระบบ!</font>', 'unknow', '0000');
 
 --
 -- Indexes for dumped tables
