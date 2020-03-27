@@ -2,7 +2,7 @@
 </p>
 <b>อย่าลืมแก้ไข database ที่ connections/botconnect.php ระบบทำงานได้บน XAMPP เท่านั้น!!!</b></p>
 </p>
-ดูตัวอย่างได้ที่ : 
+ดูตัวอย่างได้ที่ : https://www.youtube.com/watch?v=Hs5Ib7-31YA
 </p>
 นำไฟล์ sql จากโฟลเดอร์ DATABASE FILE
 
